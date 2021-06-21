@@ -1,6 +1,5 @@
 numpy
 matplotlib
 pandas
-pickle
 sklearn
 
