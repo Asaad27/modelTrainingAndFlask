@@ -1,3 +1,6 @@
-keras
-tensorflow
+numpy
+matplotlib
+pandas
+pickle
+sklearn
 
