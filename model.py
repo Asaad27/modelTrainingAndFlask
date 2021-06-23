@@ -29,6 +29,7 @@ ans = model.score(x, y)
 print(ans)
 
 file1 = open("result.txt","w")
-file1.write(str(ans))
+res = ans*100
+file1.write(str(res))
 
 file1.close()
